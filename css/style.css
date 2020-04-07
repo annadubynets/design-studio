@@ -43,7 +43,7 @@ header nav ul li a {
     text-transform: uppercase;
 }
 
-header nav ul li a span {
+header nav ul li a:hover {
     color: #10c9c3;
 }
 
