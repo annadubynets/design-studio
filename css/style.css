@@ -200,6 +200,7 @@ h1 {
 
 .project-img-left {
     margin-right: 28px;
+    align-self: center;
 }
 
 .project-desc {
