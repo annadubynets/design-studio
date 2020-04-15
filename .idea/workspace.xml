@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="614e145f-7855-4fb3-bc2c-7f0a4f5cdb97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,22 @@
       <option name="presentableId" value="Default" />
       <updated>1586096564868</updated>
       <workItem from="1586096566563" duration="463000" />
-      <workItem from="1586097060353" duration="20222000" />
+      <workItem from="1586097060353" duration="20784000" />
+      <workItem from="1586254112261" duration="1427000" />
+      <workItem from="1586430990561" duration="1814000" />
+      <workItem from="1586434741736" duration="4372000" />
+      <workItem from="1586445627334" duration="4835000" />
+      <workItem from="1586454746268" duration="2817000" />
+      <workItem from="1586458195105" duration="888000" />
+      <workItem from="1586459418661" duration="2000" />
+      <workItem from="1586499092352" duration="2322000" />
+      <workItem from="1586501797291" duration="5741000" />
+      <workItem from="1586702816516" duration="6000" />
+      <workItem from="1586703259939" duration="5000" />
+      <workItem from="1586769385301" duration="763000" />
+      <workItem from="1586845396350" duration="619000" />
+      <workItem from="1586869815958" duration="1635000" />
+      <workItem from="1586884242660" duration="555000" />
     </task>
     <servers />
   </component>
@@ -64,6 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="573" y="158" key="RollbackChangesDialog" timestamp="1586447584111">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="573" y="158" key="RollbackChangesDialog/0.23.1440.836@0.23.1440.836" timestamp="1586447584111" />
     <state x="161" y="182" width="670" height="676" key="search.everywhere.popup" timestamp="1586170126571">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
