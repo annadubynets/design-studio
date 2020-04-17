@@ -1,0 +1,230 @@
+@media only screen and (max-width: 768px) {
+    .design-float {
+        width: 50%;
+        margin-right: 0;
+    }
+
+    .professional-skills-section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .professional-skills-heading {
+        width: 50%;
+    }
+
+    .project-float {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .job-section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .video-container {
+        height: 280px;
+    }
+
+    .company-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 34px;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .unpaired-column {
+        height: 150px;
+    }
+
+    .paired-column {
+        height: 150px;
+    }
+
+    .input-inline {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .name-input {
+        margin-bottom: 30px;
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .email-input {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .footer-design-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-email-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-project-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-news-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-social-float {
+        width: 50%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .design-float {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .professional-skills-heading {
+        width: 50%;
+        font-size: 25px;
+    }
+
+    .project-float {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .job-section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .company-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 34px;
+        text-align: center;
+    }
+
+    .unpaired-column {
+        height: 100px;
+    }
+
+    .paired-column {
+        height: 100px;
+    }
+
+    .footer-design-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-email-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-project-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-news-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer-social-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .design-float {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .professional-skills-heading {
+        width: 50%;
+        font-size: 25px;
+    }
+
+    .project-float {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .job-section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .company-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 34px;
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+    .design-float {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .professional-skills-heading {
+        width: 50%;
+        font-size: 25px;
+    }
+
+    .project-float {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .job-section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .company-float {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 34px;
+        text-align: center;
+    }
+
+}

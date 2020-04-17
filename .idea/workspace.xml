@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="614e145f-7855-4fb3-bc2c-7f0a4f5cdb97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -73,6 +76,10 @@
       <workItem from="1586845396350" duration="619000" />
       <workItem from="1586869815958" duration="1635000" />
       <workItem from="1586884242660" duration="555000" />
+      <workItem from="1586928879170" duration="186000" />
+      <workItem from="1586963787043" duration="1680000" />
+      <workItem from="1586980146457" duration="3240000" />
+      <workItem from="1587056290756" duration="4248000" />
     </task>
     <servers />
   </component>
@@ -84,6 +91,10 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="573" y="158" key="RollbackChangesDialog/0.23.1440.836@0.23.1440.836" timestamp="1586447584111" />
+    <state x="473" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1587056299257">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="473" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.836@0.23.1440.836" timestamp="1587056299257" />
     <state x="161" y="182" width="670" height="676" key="search.everywhere.popup" timestamp="1586170126571">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
