@@ -232,9 +232,15 @@ h1 {
     text-transform: uppercase;
 }
 
-.gallery-flex-container {
+.gallery-flex-container-one {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.gallery-flex-container-two {
+    display: flex;
+    flex-direction: row-reverse;
     flex-wrap: wrap;
 }
 
