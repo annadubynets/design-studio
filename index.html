@@ -10,10 +10,25 @@
     <link rel="stylesheet" href="fontawesome-free-5.0.8/web-fonts-with-css/css/fontawesome-all.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://resources/demos/style.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media-queries.css">
 </head>
 <body>
+    <div id="dialog" title="FORGOT YOUR PASSWORD?">
+        <form action method="post">
+            <div class="email-flex-container">
+                <label class="email-label">ENTER YOUR <br>
+                    EMAIL</label>
+                <input name="email" type="email" class="enter-email-input">
+            </div>
+            <button type="submit" class="reset-password-btn">RESET PASSWORD</button>
+            <label class="or-label">OR</label>
+            <a href="#">Log In Using Facebook</a>
+        </form>
+    </div>
+
     <header>
         <div class="wrapper">
             <div class="header-flex-container">
@@ -38,7 +53,8 @@
 
                 <p class="new-design-desc">We are a new design studio based in USA. We have over <br>20 years of combined experience, and know a thing or two <br>about designing websites and mobile apps.</p>
 
-                <a href="#" class="contact-us-btn">contact us</a>
+                <a href="#" class="contact-us-btn" id="opener">contact us</a>
+
             </div>
         </div>
     </header>
@@ -332,6 +348,7 @@
             integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
             crossorigin="anonymous"></script>
     <script src="js/owl.carousel.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="js/scripts.js"></script>
 </body>
 </html>

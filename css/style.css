@@ -1,7 +1,157 @@
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Bold.eot');
+    src: url('../fonts/Now-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Bold.woff2') format('woff2'),
+    url('../fonts/Now-Bold.woff') format('woff'),
+    url('../fonts/Now-Bold.ttf') format('truetype'),
+    url('../fonts/Now-Bold.svg#Now-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Medium.eot');
+    src: url('../fonts/Now-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Medium.woff2') format('woff2'),
+    url('../fonts/Now-Medium.woff') format('woff'),
+    url('../fonts/Now-Medium.ttf') format('truetype'),
+    url('../fonts/Now-Medium.svg#Now-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.ui-widget-header {
+    font-family: 'Now';
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    border: none;
+}
+
+.ui-dialog-titlebar {
+    background-color: #000000;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 40px 0;
+    min-width: 755px;
+    text-align: center;
+}
+
+.ui-dialog .ui-dialog-title {
+    float: none;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+    position: absolute;
+    top: -15px;
+}
+
+.email-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.email-label {
+    font-family: 'Now';
+    font-weight: 500;
+    font-size: 22px;
+    color: #363636;
+    margin-right: 52px;
+}
+
+.enter-email-input {
+    width: 50%;
+    box-sizing: border-box;
+    height: 60px;
+    border: solid 1px #b7b7b7;
+    margin-bottom: 40px;
+    border-radius: 3px;
+}
+
+.ui-widget .reset-password-btn {
+    font-family: 'Now';
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+    background-color: #d5d5d5;
+    min-width: 528px;
+    padding: 21px 0;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.or-label {
+    font-family: 'Now';
+    font-weight: 500;
+    font-size: 22px;
+    color: #363636;
+    position: relative;
+    left: 35%;
+}
+
+.ui-widget-content a {
+    font-family: 'Now';
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    background-color: #557bcc;
+    width: 50%;
+    min-width: 528px;
+    padding: 21px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+    margin-top: 30px;
+    display: block;
+}
+
+.ui-widget-content a:before {
+    font-family: 'Font Awesome 5 Brands';
+    content: "\f39e";
+    display: inline-block;
+    padding-right: 14px;
+    line-height: 24px;
+}
+
+.ui-dialog {
+    padding: 0;
+    width: 100%!important;
+    max-width: 755px!important;
+}
+
+.ui-widget.ui-widget-content {
+    border: none;
+}
+
+.ui-dialog .ui-dialog-content {
+    margin-top: 40px;
+    margin-bottom: 166px;
+    position: relative;
+    left: 13%;
+}
+
+.ui-dialog-content .ui-widget-content {
+    position: relative;
+    left: 13px;
 }
 
 .wrapper {
@@ -609,8 +759,6 @@ footer {
     line-height: 22px;
     text-decoration: none;
 }
-
-
 
 
 

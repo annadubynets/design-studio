@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="614e145f-7855-4fb3-bc2c-7f0a4f5cdb97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
@@ -87,6 +93,20 @@
       <workItem from="1586963787043" duration="1680000" />
       <workItem from="1586980146457" duration="3240000" />
       <workItem from="1587056290756" duration="10447000" />
+      <workItem from="1587384158696" duration="12000" />
+      <workItem from="1587384195500" duration="83000" />
+      <workItem from="1587384302012" duration="31000" />
+      <workItem from="1587384375895" duration="8000" />
+      <workItem from="1587384429371" duration="14000" />
+      <workItem from="1587384447790" duration="45000" />
+      <workItem from="1587384517356" duration="4000" />
+      <workItem from="1587384914460" duration="20000" />
+      <workItem from="1587387259382" duration="26000" />
+      <workItem from="1587389563189" duration="91000" />
+      <workItem from="1587406220556" duration="117000" />
+      <workItem from="1587582157288" duration="759000" />
+      <workItem from="1587583156544" duration="6356000" />
+      <workItem from="1587630499712" duration="416000" />
     </task>
     <servers />
   </component>
