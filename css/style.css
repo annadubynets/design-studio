@@ -88,7 +88,7 @@
     font-weight: bold;
     font-size: 24px;
     color: #000000;
-    background-color: #d5d5d5;
+    background: linear-gradient(to right, #d6d6d6, #b8b8b8);
     width: 100%;
     max-width: 528px;
     padding: 21px 0;
@@ -113,7 +113,7 @@
     font-weight: bold;
     font-size: 24px;
     color: #ffffff;
-    background-color: #557bcc;
+    background: linear-gradient(to right, #557bcc, #4865a4);
     width: 100%;
     max-width: 528px;
     padding: 21px 0;
