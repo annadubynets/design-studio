@@ -51,7 +51,7 @@
 }
 
 .ui-dialog .ui-dialog-title {
-    float: none;
+    width: 100%;
 }
 
 .ui-dialog .ui-dialog-titlebar-close {
@@ -89,7 +89,8 @@
     font-size: 24px;
     color: #000000;
     background-color: #d5d5d5;
-    min-width: 528px;
+    width: 100%;
+    max-width: 528px;
     padding: 21px 0;
     text-align: center;
     border: none;
@@ -113,8 +114,8 @@
     font-size: 24px;
     color: #ffffff;
     background-color: #557bcc;
-    width: 50%;
-    min-width: 528px;
+    width: 100%;
+    max-width: 528px;
     padding: 21px 0;
     text-decoration: none;
     text-transform: uppercase;
